@@ -1,7 +1,7 @@
 
-# ELEC303 Data Analytics 
+## ELEC303 Data Analytics 
 
-### 🐧[Activity 1 - Palmer Penguin](https://github.com/DwightFC/Activity1Itelec303/blob/main/Activity1.ipynb)
+#### 🐧[Activity 1 - Palmer Penguin](https://github.com/DwightFC/Activity1Itelec303/blob/main/Activity1.ipynb)
 
 ---
 
