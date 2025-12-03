@@ -8,6 +8,7 @@
 #### 🐧[Activity 3/4 - Dengue_case](https://github.com/DwightFC/Activity1Itelec303/blob/main/Project3dengue_Cana.ipynb)
 #### 🐧[ Assignment - Data Science Salary 2021 to 2023](https://github.com/DwightFC/Activity1Itelec303/blob/main/Ca%C3%B1a_DwightFrancis_SalaryPrediction.ipynb)
 
+#### 🐧[Activity 5 - Machine learning](https://github.com/DwightFC/Activity1Itelec303/blob/main/project5HOUSING_TRAIN.ipynb)
 
 ---
 
