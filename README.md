@@ -11,8 +11,8 @@
 #### 🐧[Activity 5 - Machine learning](https://github.com/DwightFC/Activity1Itelec303/blob/main/project5HOUSING_TRAIN.ipynb)
 #### 🐧[Project6- Classfication Machine Learning](https://github.com/DwightFC/Activity1Itelec303/blob/main/Project_6_TitanicSurvavility_MachineLearning.ipynb)
 #### Presentation
-#### 🐧[Infographic PNG](https://github.com/DwightFC/Activity1Itelec303/blob/main/Project_6_TitanicSurvavility_MachineLearning.ipynb)
-#### 🐧[Infographic PDF](https://github.com/DwightFC/Activity1Itelec303/blob/main/Project_6_TitanicSurvavility_MachineLearning.ipynb)
+#### 🐧[Infographic PNG](https://github.com/DwightFC/Activity1Itelec303/blob/main/CanaFinalsProject.pdf)
+#### 🐧[Infographic PDF](https://github.com/DwightFC/Activity1Itelec303/blob/main/CanaFinalsProject.pdf)
 #### 🐧[Jupyter File](https://github.com/DwightFC/Activity1Itelec303/blob/main/Project_6_TitanicSurvavility_MachineLearning.ipynb)
 ---
 
