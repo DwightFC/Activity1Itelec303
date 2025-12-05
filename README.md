@@ -9,11 +9,13 @@
 #### 🐧[ Assignment - Data Science Salary 2021 to 2023](https://github.com/DwightFC/Activity1Itelec303/blob/main/Ca%C3%B1a_DwightFrancis_SalaryPrediction.ipynb)
 
 #### 🐧[Activity 5 - Machine learning](https://github.com/DwightFC/Activity1Itelec303/blob/main/project5HOUSING_TRAIN.ipynb)
-#### 🐧[Project6- Classfication Machine Learning](https://github.com/DwightFC/Activity1Itelec303/blob/main/Project_6_TitanicSurvavility_MachineLearning.ipynb)
+#### 🐧[Activity 6- Classfication Machine Learning](https://github.com/DwightFC/Activity1Itelec303/blob/main/Project_6_TitanicSurvavility_MachineLearning.ipynb)
+#### 🐧[Activity 7- Movie Ratings Power Bi](https://github.com/DwightFC/Activity1Itelec303/blob/main/Project_6_TitanicSurvavility_MachineLearning.ipynb)
+
 #### Presentation
 #### 🐧[Infographic PNG](https://github.com/DwightFC/Activity1Itelec303/blob/main/CanaFinalsProject.png)
 #### 🐧[Infographic PDF](https://github.com/DwightFC/Activity1Itelec303/blob/main/CanaFinalsProject.pdf)
-#### 🐧[Jupyter File](https://github.com/DwightFC/Activity1Itelec303/blob/main/Project_6_TitanicSurvavility_MachineLearning.ipynb)
+#### 🐧[Jupyter File](https://github.com/DwightFC/Activity1Itelec303/blob/main/Finals_project-checkpoint.ipynb)
 ---
 
 ### 📊 Data Analytics with Jupyter Notebook
